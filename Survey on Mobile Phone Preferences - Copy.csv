@@ -1,0 +1,48 @@
+customer age,customer Gender,feature,price,mode of buying,inducing factors,exchange policy,current brand
+21,Male,key features,12000,Online,Others,yes,Lenovo
+25,Male,User experience,81000,Retail Shop,Internet,yes,Apple
+22,Male,User experience,11000,Online,Others,NO,xioami
+28,Male,key features,15000,Online,acquaintances,NO,xioami
+27,Male,key features,15000,Online,Internet,NO,Nokia
+21,Male,key features,29000,Online,Internet,NO,samsung
+26,Male,Processing features,23000,Online,acquaintances,NO,Oneplus
+23,Female,User experience,14000,Online,Internet,yes,LG
+24,Male,Processing features,40000,Online,acquaintances,NO,samsung
+22,Male,Processing features,14000,Online,Internet,yes,Motorola
+25,Male,miscellaneous features,29000,Online,acquaintances,NO,samsung
+23,Male,User experience,14000,Online,Social Media,yes,Motorola
+26,Male,key features,10500,Online,Others,NO,Motorola
+22,Male,Processing features,11000,Retail Shop,acquaintances,NO,Oppo
+22,Male,Processing features,11000,Retail Shop,Internet,NO,xioami
+23,Male,processing features,26000,Online,Internet,NO,Nokia
+26,Female,Processing features,60000,Retail Shop,Internet,NO,samsung
+22,Male,Processing features,20000,Retail Shop,acquaintances,NO,xioami
+30,Male,key features,20000,Online,Social Media,NO,huawei
+24,Male,Processing features,15000,Online,acquaintances,NO,xioami
+23,Male,key features,35000,Online,Others,NO,Apple
+21,Male,key features,15000,Online,acquaintances,NO,Motorola
+23,Female,key features,17000,Online,acquaintances,NO,Asus
+27,Male,User experience,8500,Online,acquaintances,yes,honor
+21,Male,key features,11200,Retail Shop,Social Media,yes,xioami
+26,Female,Processing features,17000,Online,Others,NO,xioami
+25,Male,key features,20000,Retail Shop,internet,NO,Vivo
+25,Male,key features,19000,Online,Internet,yes,Realme
+22,Male,key features,15000,Online,internet,NO,xioami
+27,Male,Processing features,15000,Online,Internet,yes,Nokia
+23,Female,key features,60000,Retail Shop,Internet,NO,Apple
+32,Male,User experience,10000,Online,Internet,NO,HTC
+23,Male,Processing features,29000,Retail Shop,acquaintances,NO,Apple
+22,Male,key features,15000,Online,acquaintances,NO,xioami
+28,Male,Processing features,55000,Retail Shop,acquaintances,NO,Apple
+21,Female,key features,12000,Retail Shop,acquaintances,NO,xioami
+23,Male,User experience,40000,Retail Shop,Others,NO,Apple
+21,Female,User experience,20000,Retail Shop,internet,NO,samsung
+22,Female,User experience,25000,Retail Shop,internet,NO,samsung
+24,Female,Processing features,11000,Online,internet,NO,samsung
+30,Female,key features,13000,Online,Others,NO,xioami
+21,Female,User experience,12000,Retail Shop,Internet,NO,LG
+23,Female,processing features,12000,Online,internet,NO,Motorola
+26,Female,User experience,20000,Retail Shop,internet,NO,samsung
+29,Male,miscellaneous features,28000,Online,Others,NO,Oneplus
+23,Female,key features,50000,Retail Shop,internet,NO,Apple
+21,Female,key features,15000,Retail Shop,acquaintances,NO,xioami
